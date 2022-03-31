@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8c3e765d-c036-414b-9008-dc759d7bf7ba" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../exercise_1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise_1/typescript-variable/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise_1/typescript-variable/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise_1/typescript-variable/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise_1/typescript-variable/.idea/typescript-variable.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise_1/typescript-variable/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise_1/typescript-variable/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise_1/typescript-variable/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise_1/typescript-variable/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise_1/typescript-variable/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise_2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise_2/.idea/exercise_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise_2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise_2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise_2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise_2/typescript-control-flow-and-loop/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise_2/typescript-control-flow-and-loop/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise_2/typescript-control-flow-and-loop/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise_2/typescript-control-flow-and-loop/.idea/typescript-control-flow-and-loop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise_2/typescript-control-flow-and-loop/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise_2/typescript-control-flow-and-loop/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise_2/typescript-control-flow-and-loop/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise_2/typescript-control-flow-and-loop/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise_2/typescript-control-flow-and-loop/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise_2/typescript-control-flow-and-loop/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript-is-prime/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript-is-prime/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript-is-prime/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript-is-prime/.idea/typescript-is-prime.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript-is-prime/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript-is-prime/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript-is-prime/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript-is-prime/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript-is-prime/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise_4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise_4/.idea/exercise_4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise_4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise_4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise_4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise_4/typescript-shape/.idea/typescript-shape.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise_5/typescript-promise/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise_5/typescript-promise/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise_5/typescript-promise/.idea/typescript-promise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise_5/typescript-promise/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise_5/typescript-promise/dist/main.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise_5/typescript-promise/dist/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise_5/typescript-promise/dist/main.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise_5/typescript-promise/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise_5/typescript-promise/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise_5/typescript-promise/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise_5/typescript-promise/tsconfig.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="279S7yzWsVB4d48ZPLnJDmlKXnB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../C01021G1_NguyenVanCong_Module4/test_module_4" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c3e765d-c036-414b-9008-dc759d7bf7ba" name="Changes" comment="" />
+      <created>1648730648320</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648730648320</updated>
+      <workItem from="1648730648326" duration="7000" />
+      <workItem from="1648733544856" duration="51000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
