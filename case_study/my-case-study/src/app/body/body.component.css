@@ -1,0 +1,15 @@
+.image-slider {
+  height: 800px;
+}
+
+.image-item{
+  position: relative;
+  height: 800px;
+}
+
+.image {
+  position: absolute;
+  bottom: 0;
+}
+
+
