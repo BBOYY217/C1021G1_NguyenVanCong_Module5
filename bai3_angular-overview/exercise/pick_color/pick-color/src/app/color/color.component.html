@@ -1,0 +1,10 @@
+<div class="container">
+  <div>
+    <input type="color" name="color" id="color" [(ngModel)] = "color" style="height: 50px;width: 100px">
+  </div>
+  <div [ngStyle]="{'background-color': color}">
+    <h1>
+      color
+    </h1>
+  </div>
+</div>
