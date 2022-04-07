@@ -1,0 +1,7 @@
+.timer-text {
+  display: inline-block;
+  padding: 20px;
+  background-image:  radial-gradient(circle, red,orange,yellow,green,blue,indigo,violet);
+  font-size: 20px;
+  font-weight: 700;
+}

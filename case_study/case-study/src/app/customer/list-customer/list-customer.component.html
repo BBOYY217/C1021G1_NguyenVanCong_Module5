@@ -1,0 +1,34 @@
+<div class="container">
+  <table  class="table table-striped table-hover">
+    <tr>
+      <th>Id</th>
+      <th>Name</th>
+      <th>Date</th>
+      <th>Gender</th>
+      <th>Id card</th>
+      <th>Phone number</th>
+      <th>Email</th>
+      <th>Address</th>
+      <th>Customer type</th>
+      <th style="text-align: center">Action</th>
+    </tr>
+    <tbody>
+    <tr *ngFor="let customers of customer ">
+      <td>{{customers.id}}</td>
+      <td>{{customers.name}}</td>
+      <td>{{customers.date}}</td>
+      <td>{{customers.gender}}</td>
+      <td>{{customers.idCard}}</td>
+      <td>{{customers.phoneNumber}}</td>
+      <td>{{customers.email}}</td>
+      <td>{{customers.address}}</td>
+      <td>{{customers.customerType.name}}</td>
+      <td style="text-align: center">
+        <a class="btn btn-warning " style="margin-left: 10px">Detail</a>
+        <a class="btn btn-primary" style="margin-left: 10px">Edit</a>
+        <a class="btn btn-danger" style="margin-left: 10px">Delete</a>
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
