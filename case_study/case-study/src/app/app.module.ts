@@ -17,6 +17,8 @@ import {DivisionComponent} from "./employee/division/division.component";
 import {EducationDegreeComponent} from "./employee/education-degree/education-degree.component";
 import { RentTypeComponent } from './service/rent-type/rent-type.component';
 import { ServiceTypeComponent } from './service/service-type/service-type.component';
+import { ContractComponent } from './contract/contract/contract.component';
+import { ContractDetailComponent } from './contract/contract-detail/contract-detail.component';
 
 
 @NgModule({
@@ -35,6 +37,8 @@ import { ServiceTypeComponent } from './service/service-type/service-type.compon
     EducationDegreeComponent,
     RentTypeComponent,
     ServiceTypeComponent,
+    ContractComponent,
+    ContractDetailComponent,
   ],
   imports: [
     BrowserModule,
