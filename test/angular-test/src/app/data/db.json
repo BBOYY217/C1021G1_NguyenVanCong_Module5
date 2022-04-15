@@ -1,0 +1,72 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "Iphone X",
+      "price": "5000",
+      "category": {
+        "id": "1",
+        "name": "new"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Iphone 11",
+      "price": "7000",
+      "category": {
+        "id": "2",
+        "name": "like new"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Iphone 10",
+      "price": "9000",
+      "category": {
+        "id": "3",
+        "name": "old"
+      }
+    },
+    {
+      "name": "Iphone 13",
+      "price": 90000,
+      "category": "new",
+      "id": "5vjDDGA"
+    },
+    {
+      "name": "Iphone 13",
+      "price": 100000,
+      "category": "new",
+      "id": "09inzyP"
+    },
+    {
+      "name": "Iphone 13",
+      "price": 5000,
+      "category": "new",
+      "id": "E8i4Vd6"
+    },
+    {
+      "name": "Iphone X",
+      "price": "5000",
+      "category": {
+        "id": 1,
+        "name": "new"
+      },
+      "id": "WMix7n_"
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "name": "new"
+    },
+    {
+      "id": 2,
+      "name": "like new"
+    },
+    {
+      "id": 3,
+      "name": "old"
+    }
+  ]
+}

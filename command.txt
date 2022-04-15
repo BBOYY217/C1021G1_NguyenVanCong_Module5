@@ -1,0 +1,2 @@
+npm install -g json-server cài đặt json-server
+json-server --watch db.json  kiem ta ket qua
